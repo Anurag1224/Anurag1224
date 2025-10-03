@@ -26,11 +26,13 @@ Skilled in the **MERN stack**, I enjoy building **interactive, scalable applicat
 ✈️ I love traveling and exploring new experiences, but currently, I’m dedicating my time to **learning and upskilling**.  
 🎧 I enjoy listening to podcasts that broaden my perspective.  
 
+
 ---
 
 ⚡ *Passionate about learning, building, and creating solutions that make an impact.*  
 
 ---
+
 
 ## 🛠 Tech Stack  
 
@@ -77,6 +79,7 @@ Skilled in the **MERN stack**, I enjoy building **interactive, scalable applicat
 ---
 
 ## 🤝 Let's Connect  
+I’m open to new opportunities, collaborations, and tech discussions! Feel free to reach out via email or connect on LinkedIn.
 
 <p align="center">
   <a href="mailto:anurag1224kumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
