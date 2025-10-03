@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/anurag1224"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Anurag1224"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/anurag1224kumar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://drive.google.com/file/d/1G9oZwcAPMLI1ZCoINaVtHA67uAVsutA0/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
+  <a href="https://drive.google.com/drive/folders/1AstvnaftVsT9NE4P0TeMqBxrM0bthjF9?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
 </p>
 
 ---
